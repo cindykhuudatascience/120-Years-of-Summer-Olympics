@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Fudgemart ETL", "Fudgemart ETL\Fudgemart ETL.dtproj", "{E8ADB245-5DBF-44CF-BBBF-D6F5335ADFA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8ADB245-5DBF-44CF-BBBF-D6F5335ADFA5}.Development|Default.ActiveCfg = Development
+		{E8ADB245-5DBF-44CF-BBBF-D6F5335ADFA5}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7BE1EC06-316A-4AAE-B3C7-D2404FDD1206}
+	EndGlobalSection
+EndGlobal
