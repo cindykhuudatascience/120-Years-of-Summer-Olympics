@@ -1,6 +1,5 @@
 # 120 Years of Summer Olympics Analysis and Prediction
-This was the final project for my Applied Data Science Class. 
-This is an analysis on a Kaggle dataset call 120 Years Of Olympics games, where explore trends in medal count and participation over the history of the Olympics to define variables to build a model that will to predict winner with most gold medals. This would allow us to predict the winner for the next Summer Olympics. 
+This is an analysis on a Kaggle dataset called 120 Years Of Olympics games, exploring trends in medal count and participation over the history of the Olympics and defining variables to build a model that will to predict winner with most gold medals. With the predictive model, we can predict the winner for the next Summer Olympics. 
 
 Included are two files: a written paper and R programming script. 
 
